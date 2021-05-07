@@ -1,0 +1,21 @@
+#shoesBackground{background-color: lightsalmon}
+#titleColor{color: darkcyan}
+#resultsBackground{background-color: lightsalmon}
+#listColor{color: dimgray}
+.prosSize{font-size: 35px}
+ul{color: darkcyan}
+ol{color: darkcyan}
+#picsize{width: 300px}
+a:visited{color: darkcyan}
+.listsize{font-size: 25px}
+.centertext{text-align: center;}
+.center {
+  display: block;
+  margin-left: 90px;
+  margin-right: auto;}
+  #borderimg{border: 10px solid #555;}
+ #movetext{
+ 	display: block;
+ 	margin-left: 700px;
+ 	margin-right: auto;}
+ .bigsize{font-size: 50px}
